@@ -17,22 +17,19 @@ A modern, high-quality website for the White Plains Premium Fitness & Martial Ar
 - `index.html` - Main HTML structure
 - `styles.css` - All styling and responsive design
 - `script.js` - Interactive features and animations
-- `images/` - Folder for studio photos
+- `images/` - Studio photos folder
 
 ## Gallery Images
 
-The website includes 4 professional studio images:
-- `studio-1.jpg` - Main training area interior
-- `studio-2.jpg` - Building exterior & location
-- `studio-3.jpg` - Training area details
-- `studio-4.jpg` - Parking & accessibility
+The website displays professional studio images:
+- `studio-1.jpg` - Interior training area (wide view)
+- `studio-2.jpg` - Interior training area (detail view)
+- `studio-3.jpg` - Parking lot & location
 
 ## How to View the Website
 
-1. Once files are uploaded, enable GitHub Pages
-2. Go to Settings → Pages
-3. Select `main` branch
-4. Your site will be live at `https://jghosh1-bot.github.io/white-plains-studio`
+Your website is live at:  
+**https://jghosh1-bot.github.io/white-plains-studio/**
 
 ## How to Customize
 
@@ -53,9 +50,7 @@ Edit the contact section in `index.html` with your details
 3. Your site is live!
 
 ### GitHub Pages
-1. Go to Settings → Pages
-2. Select `main` branch
-3. Your site will be live automatically
+Your site is already live at: https://jghosh1-bot.github.io/white-plains-studio/
 
 ## License
 
